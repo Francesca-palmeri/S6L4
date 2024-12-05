@@ -33,3 +33,18 @@ button{
     color: white;
 }
 
+.ColorIcons{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #FFEEDA;
+    position: relative;
+}
+
+i.bi{
+    color: #C28135;
+    position: absolute;
+    top: 8px;
+    left: 12px;
+    
+}
