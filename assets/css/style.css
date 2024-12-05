@@ -1,0 +1,35 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+
+.iconBell {
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    background-color: #F8F9FA;
+    
+}
+
+.imgprofile img{
+    width: 20%;
+    border-radius: 100%;
+}
+
+section{
+    background-color: #754FFE;
+}
+
+button{
+    border: none ;
+    border-radius: 10px;
+}
+
+.button1{
+    background-color: #19cb98;
+    color: white;
+}
+
